@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Ahmed Gritli!
-- 👀 I’m interested in coding, cybersecurity, anything related to tech!
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**ABOUT ME**: Web Developer, Cybersecurity enthusiast, I <3 Cryptography & Mathematics, and I like to exploit binaries from time to time!
+
+**Tech Stack**: LAMP (I'm currently discovering more stacks too!)
+
+**Programming Languages**: C/C++, Python, PHP, SQL, Javascript
+
+
 
 <!---
 gritliahmed/gritliahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
